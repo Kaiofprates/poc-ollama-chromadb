@@ -1,0 +1,6 @@
+# requirements.txt
+ollama
+chromadb
+streamlit
+pypdf2
+langchain-community
