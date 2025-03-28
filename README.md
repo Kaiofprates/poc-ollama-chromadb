@@ -21,8 +21,6 @@ pip install -r requirements.txt
 Para rodar a aplicação, execute:
 
 ```sh
-Copiar
-Editar
 streamlit run app.py
 ```
 
